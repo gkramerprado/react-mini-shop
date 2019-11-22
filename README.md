@@ -29,7 +29,7 @@ $ npm install --all
 Example for yarn
 
 ```
-$ yarn add
+$ yarn install
 ```
 
 ## Running the tests
