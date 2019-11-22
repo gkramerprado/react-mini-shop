@@ -1,4 +1,4 @@
-# Project Title
+# CoreBiz MiniShop Cart Project
 
 This project will be represented handling items in a shopping cart, adding, changing and removing items.
 
@@ -34,10 +34,6 @@ $ yarn add
 
 ## Running the tests
 
-Explain how to run the automated tests for this system
-
-### Break down into end to end tests
-
 To run the application, we will use the following command
 
 Example for npm
@@ -50,3 +46,5 @@ Example for yarn
 ```
 $ yarn start
 ```
+
+# Developed by Guilherme Kramer
