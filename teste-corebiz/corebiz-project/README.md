@@ -2,6 +2,11 @@
 
 This project will be represented handling items in a shopping cart, adding, changing and removing items.
 
+To clone, use:
+
+```
+$ git clone {Github url}
+```
 ## Getting Started
 
 To run the project on your machine, you will first need to clone this Github repository.
