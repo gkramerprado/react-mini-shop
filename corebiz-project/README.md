@@ -47,4 +47,4 @@ Example for yarn
 $ yarn start
 ```
 
-# Developed by Guilherme Kramer
+### Developed by Guilherme Kramer
