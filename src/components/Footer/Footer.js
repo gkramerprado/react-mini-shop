@@ -5,7 +5,7 @@ import toaster from '../Toast/Toast';
 
 //Metodo para realizar o post dos dados(nome e email) para a API informada
 export const postUser = (params) => {
-    const url = `http://api.vtexcrm.com.br/corebiz/dataentities/TE/documents`;
+    const url = `API URL`;
     return axios({
         method: 'POST',
         url: url,
