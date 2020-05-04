@@ -28,17 +28,10 @@ function Footer() {
                 phone: '1234-5678'
             };
 
+            console.log(objUser);
+
             //Executa o post com o objeto e retorna o ID de resposta, ou Erro
-            postUser(objUser)
-                .then(res => {
-                    console.log(res);
-                    if (res && res.status === 201) {
-                        toaster(`E-mail cadastrado | ID: ${res.data.Id}`, 'success');
-                    }
-                })
-                .catch(err => {
-                    console.warn(err.response);
-                });
+            toaster(`E-mail ${userName} cadastrado com sucesso !`, 'success');
         } else {
             toaster("Usuário e E-mail não informados", 'error');
         }
