@@ -1,4 +1,4 @@
-# CoreBiz MiniShop Cart Project
+# MiniShop Cart Project
 
 This project will be represented handling items in a shopping cart, adding, changing and removing items.
 
